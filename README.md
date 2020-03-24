@@ -7,5 +7,3 @@ I currently read this book, at the same time, I will check the original code fro
 In addtion, I will sort out my questions and answers to the exercies in the book.
 
 I am also working on translating this book into Chinese.
-
-
