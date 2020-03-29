@@ -102,6 +102,7 @@ class State:
         print('-------------')
 
 
+# all states
 def get_all_states_impl(current_state, current_symbol, all_states):
     for i in range(BOARD_ROWS):
         for j in range(BOARD_COLS):
@@ -118,7 +119,6 @@ def get_all_states_impl(current_state, current_symbol, all_states):
 def get_all_states():
     current_symbol = 1
     current_state = State()
-    print(current_state.hash())
     all_states = dict()
     all_states[current_state.hash()] = (current_state, current_state.is_end())
     get_all_states_impl(current_state, current_symbol, all_states)
@@ -291,19 +291,19 @@ def train(epochs, print_every_n=500):
     judger = Judger(player1, player2)
     player1_win = 0.0
     player2_win = 0.0
-    # for i in range(1, epochs + 1):
-    #     winner = judger.play(print_state=False)
-    #     if winner == 1:
-    #         player1_win += 1
-    #     if winner == -1:
-    #         player2_win += 1
-    #     if i % print_every_n == 0:
-    #         print('Epoch %d, player 1 winrate: %.02f, player 2 winrate: %.02f' % (i, player1_win / i, player2_win / i))
-    #     player1.backup()
-    #     player2.backup()
-    #     judger.reset()
-    # player1.save_policy()
-    # player2.save_policy()
+    for i in range(1, epochs + 1):
+        winner = judger.play(print_state=False)
+        if winner == 1:
+            player1_win += 1
+        if winner == -1:
+            player2_win += 1
+        if i % print_every_n == 0:
+            print('Epoch %d, player 1 winrate: %.02f, player 2 winrate: %.02f' % (i, player1_win / i, player2_win / i))
+        player1.backup()
+        player2.backup()
+        judger.reset()
+    player1.save_policy()
+    player2.save_policy()
 
 
 def compete(turns):
