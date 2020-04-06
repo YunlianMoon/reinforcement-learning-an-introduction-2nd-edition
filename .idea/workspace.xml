@@ -2,12 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef2d236-260a-4356-a13f-09dc6a64bec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/chapter02/ten_armed_testbed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-programming/exercise2.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/reinforcement-learning-an-introduction-2nd-edition.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/reinforcement-learning-an-introduction-2nd-edition.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter01/tic_tac_toe.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter01/tic_tac_toe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -21,8 +33,51 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.exercise2.5">
+    <configuration name="exercise2.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="reinforcement-learning-an-introduction-2nd-edition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/exercise-programming" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise-programming/exercise2.5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ten_armed_testbed" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="reinforcement-learning-an-introduction-2nd-edition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter02/ten_armed_testbed.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="tic_tac_toe" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="reinforcement-learning-an-introduction-2nd-edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -46,6 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exercise2.5" />
+        <item itemvalue="Python.ten_armed_testbed" />
         <item itemvalue="Python.tic_tac_toe" />
       </list>
     </recent_temporary>
@@ -76,29 +133,44 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1064" height="192" key="GridCell.Tab.0.bottom" timestamp="1585461976738">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1064" height="192" key="GridCell.Tab.0.bottom" timestamp="1586167440801">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1064" height="192" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1585387029236" />
     <state width="1064" height="192" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1585461976738" />
-    <state width="1064" height="192" key="GridCell.Tab.0.center" timestamp="1585461976737">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1064" height="192" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586160219153" />
+    <state width="1064" height="192" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1586167440801" />
+    <state width="1064" height="192" key="GridCell.Tab.0.center" timestamp="1586167440801">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1064" height="192" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1585387029233" />
     <state width="1064" height="192" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1585461976737" />
-    <state width="1064" height="192" key="GridCell.Tab.0.left" timestamp="1585461976737">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1064" height="192" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1586160219152" />
+    <state width="1064" height="192" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1586167440801" />
+    <state width="1064" height="192" key="GridCell.Tab.0.left" timestamp="1586167440800">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1064" height="192" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1585387029231" />
     <state width="1064" height="192" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1585461976737" />
-    <state width="1064" height="192" key="GridCell.Tab.0.right" timestamp="1585461976738">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state width="1064" height="192" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1586160219152" />
+    <state width="1064" height="192" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1586167440800" />
+    <state width="1064" height="192" key="GridCell.Tab.0.right" timestamp="1586167440801">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state width="1064" height="192" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1585387029235" />
     <state width="1064" height="192" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1585461976738" />
-    <state x="228" y="252" key="com.intellij.ide.util.TipDialog" timestamp="1585364897099">
-      <screen x="0" y="23" width="1440" height="816" />
+    <state width="1064" height="192" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1586160219153" />
+    <state width="1064" height="192" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1586167440801" />
+    <state x="233" y="62" key="SettingsEditor" timestamp="1585794685015">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state x="233" y="62" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1585794685015" />
+    <state x="228" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585878352982">
+      <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="228" y="252" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1585364897099" />
+    <state x="228" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1585794403805" />
+    <state x="228" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1585794907044" />
+    <state x="228" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1585878352982" />
   </component>
 </project>
