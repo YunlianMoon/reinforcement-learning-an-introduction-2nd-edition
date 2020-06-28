@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fef2d236-260a-4356-a13f-09dc6a64bec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter05/blackjack.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter05/infinite_variance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-programming/exercise5.12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter06/cliff_walking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter06/maximization_bias.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter06/random_walk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chapter06/windy_grid_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exercise-programming/tmp.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-pdf/chinese-translation.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/a-pdf/chinese-translation.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-pdf/exercises.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/a-pdf/exercises.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/a-pdf/questions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/a-pdf/questions.pdf" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +35,8 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.infinite_variance">
-    <configuration name="blackjack" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.maximization_bias">
+    <configuration name="cliff_walking" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="reinforcement-learning-an-introduction-2nd-edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -45,11 +44,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/blackjack.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter06/cliff_walking.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -58,7 +57,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise4.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="exercise6.10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="reinforcement-learning-an-introduction-2nd-edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise-programming/exercise4.7.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise-programming/exercise6.10.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,7 +78,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="exercise4.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="maximization_bias" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="reinforcement-learning-an-introduction-2nd-edition" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter06" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter06/maximization_bias.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tmp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="reinforcement-learning-an-introduction-2nd-edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise-programming/exercise4.9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise-programming/tmp.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -100,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="gamblers_problem" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="windy_grid_world" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="reinforcement-learning-an-introduction-2nd-edition" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,32 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter04" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter06" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter04/gamblers_problem.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="infinite_variance" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="reinforcement-learning-an-introduction-2nd-edition" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chapter05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05/infinite_variance.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter06/windy_grid_world.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -144,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.infinite_variance" />
-        <item itemvalue="Python.blackjack" />
-        <item itemvalue="Python.exercise4.7" />
-        <item itemvalue="Python.exercise4.9" />
-        <item itemvalue="Python.gamblers_problem" />
+        <item itemvalue="Python.maximization_bias" />
+        <item itemvalue="Python.cliff_walking" />
+        <item itemvalue="Python.windy_grid_world" />
+        <item itemvalue="Python.exercise6.10" />
+        <item itemvalue="Python.tmp" />
       </list>
     </recent_temporary>
   </component>
@@ -178,44 +177,52 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1168" height="171" key="GridCell.Tab.0.bottom" timestamp="1592901312134">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state x="220" y="54" key="CommitChangelistDialog2" timestamp="1593137709170">
+      <screen x="0" y="23" width="1440" height="826" />
     </state>
-    <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1592361968358" />
-    <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1592552424097" />
-    <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1592901312134" />
+    <state x="220" y="54" key="CommitChangelistDialog2/0.23.1440.826@0.23.1440.826" timestamp="1593137709170" />
+    <state width="1168" height="171" key="GridCell.Tab.0.bottom" timestamp="1593314170901">
+      <screen x="0" y="23" width="1440" height="821" />
+    </state>
+    <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.816@0.23.1440.816" timestamp="1593077110780" />
+    <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1593314170901" />
+    <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1593247735735" />
     <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1592573368337" />
-    <state width="1168" height="104" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1592299792256" />
+    <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1593138744192" />
+    <state width="1168" height="171" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1593137587375" />
     <state width="1064" height="192" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1586160219153" />
     <state width="1064" height="192" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1586167440801" />
-    <state width="1168" height="171" key="GridCell.Tab.0.center" timestamp="1592901312134">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1168" height="171" key="GridCell.Tab.0.center" timestamp="1593314170900">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1592361968357" />
-    <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1592552424096" />
-    <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1592901312134" />
+    <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.816@0.23.1440.816" timestamp="1593077110779" />
+    <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1593314170900" />
+    <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1593247735735" />
     <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1592573368337" />
-    <state width="1168" height="104" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1592299792251" />
+    <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1593138744192" />
+    <state width="1168" height="171" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1593137587374" />
     <state width="1064" height="192" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1586160219152" />
     <state width="1064" height="192" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1586167440801" />
-    <state width="1168" height="171" key="GridCell.Tab.0.left" timestamp="1592901312134">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1168" height="171" key="GridCell.Tab.0.left" timestamp="1593314170900">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1592361968356" />
-    <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1592552424096" />
-    <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1592901312134" />
+    <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.816@0.23.1440.816" timestamp="1593077110779" />
+    <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1593314170900" />
+    <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1593247735735" />
     <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1592573368336" />
-    <state width="1168" height="104" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1592299792251" />
+    <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1593138744191" />
+    <state width="1168" height="171" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1593137587373" />
     <state width="1064" height="192" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1586160219152" />
     <state width="1064" height="192" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1586167440800" />
-    <state width="1168" height="171" key="GridCell.Tab.0.right" timestamp="1592901312134">
-      <screen x="0" y="23" width="1440" height="822" />
+    <state width="1168" height="171" key="GridCell.Tab.0.right" timestamp="1593314170901">
+      <screen x="0" y="23" width="1440" height="821" />
     </state>
-    <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1592361968357" />
-    <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1592552424097" />
-    <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1592901312134" />
+    <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.816@0.23.1440.816" timestamp="1593077110780" />
+    <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1593314170901" />
+    <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1593247735735" />
     <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1592573368337" />
-    <state width="1168" height="104" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1592299792252" />
+    <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1593138744192" />
+    <state width="1168" height="171" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1593137587374" />
     <state width="1064" height="192" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1586160219153" />
     <state width="1064" height="192" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1586167440801" />
     <state x="233" y="62" key="SettingsEditor" timestamp="1591835632262">
@@ -223,15 +230,15 @@
     </state>
     <state x="233" y="62" key="SettingsEditor/0.23.1440.823@0.23.1440.823" timestamp="1585794685015" />
     <state x="233" y="62" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1591835632262" />
-    <state x="228" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1592901107167">
+    <state x="228" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1593312601481">
       <screen x="0" y="23" width="1440" height="822" />
     </state>
-    <state x="228" y="252" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1592292154550" />
-    <state x="228" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1592878490028" />
-    <state x="228" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1592901107167" />
+    <state x="228" y="252" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1593074325399" />
+    <state x="228" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.821@0.23.1440.821" timestamp="1593003498533" />
+    <state x="228" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1593312601481" />
     <state x="228" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1592573007322" />
     <state x="228" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1585794403805" />
-    <state x="228" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1585794907044" />
+    <state x="228" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1593137523701" />
     <state x="228" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.828@0.23.1440.828" timestamp="1585878352982" />
     <state x="458" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1591839712451">
       <screen x="0" y="23" width="1440" height="823" />
