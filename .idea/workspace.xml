@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fef2d236-260a-4356-a13f-09dc6a64bec4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/chapter08/expectation_vs_sample.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/maze.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/chapter08/trajectory_sampling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-programming/exercise8.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exercise-programming/exercise_8.8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise-programming/tmp.py" beforeDir="false" />
-    </list>
+    <list default="true" id="fef2d236-260a-4356-a13f-09dc6a64bec4" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -230,8 +222,8 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="233" y="62" key="SettingsEditor/0.23.1440.825@0.23.1440.825" timestamp="1591835632262" />
-    <state x="228" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1595314251616">
-      <screen x="0" y="23" width="1440" height="821" />
+    <state x="228" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1599225609166">
+      <screen x="0" y="23" width="1440" height="829" />
     </state>
     <state x="228" y="251" key="com.intellij.ide.util.TipDialog/0.23.1440.814@0.23.1440.814" timestamp="1595248036991" />
     <state x="228" y="252" key="com.intellij.ide.util.TipDialog/0.23.1440.816@0.23.1440.816" timestamp="1595247809225" />
@@ -240,6 +232,7 @@
     <state x="228" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.823@0.23.1440.823" timestamp="1595301664193" />
     <state x="228" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.825@0.23.1440.825" timestamp="1595233175473" />
     <state x="228" y="255" key="com.intellij.ide.util.TipDialog/0.23.1440.826@0.23.1440.826" timestamp="1593137523701" />
+    <state x="228" y="256" key="com.intellij.ide.util.TipDialog/0.23.1440.829@0.23.1440.829" timestamp="1599225609166" />
     <state x="458" y="170" width="670" height="676" key="search.everywhere.popup" timestamp="1591839712451">
       <screen x="0" y="23" width="1440" height="823" />
     </state>
